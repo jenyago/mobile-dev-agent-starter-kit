@@ -1,5 +1,7 @@
 # Mobile Dev Agent Starter Kit
 
+**[Live showcase / field manual →](https://jenyago.github.io/mobile-dev-agent-starter-kit/)**
+
 A multi-agent "company" for Claude Code, built specifically for shipping iOS/macOS apps as a solo or small-team developer. Instead of one generalist assistant trying to hold research, design, code, QA, App Store mechanics, and marketing in its head at once, this kit splits that work into 13 specialist subagents that hand off to each other in a fixed pipeline, with two mandatory quality gates before anything reaches the App Store.
 
 ## Why a multi-agent company beats one generalist assistant
